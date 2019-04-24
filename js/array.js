@@ -42,15 +42,15 @@ console.log(arr4);
 arr4.shift();//remove first item
 console.log(arr4);
 
-var arr5=arr4.slice();
+var arr5=arr4.slice();//makes acopy of array4 to 5
 console.log(arr5);
 
-var arr6=arr4;
+var arr6=arr4;//exact copy
 arr4.push(false);
 console.log(arr4);
 console.log(arr5);
 console.log(arr6);
 
 
-var arr7=arr4.slice(1,3);
+var arr7=arr4.slice(1,3);//starts index1,captures everything before index 3
 console.log(arr7);
