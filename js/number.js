@@ -32,6 +32,8 @@ console.log(mod);
 var mod= b%c;
 console.log(mod);
 
-var e = '5';//not a number but is string
+var e = '20';//not a number but is string
 console.log(typeof e);//returns the type of variable e
-
+console.log(a===e);//looking for exact match-strict comparision
+console.log(a==e);//looks only at value does nt look for type-loose comparision
+//its value is truthy
