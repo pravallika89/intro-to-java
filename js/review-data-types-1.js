@@ -27,7 +27,7 @@ console.log(str5);
 // boolean variables
 
 var f = true;
-var bg = false;
+var g = false;
 
 console.log(f);
 console.log(g);
@@ -49,21 +49,21 @@ console.log(arr5);
 //object variables
 
 var phone={
-    make:'Apple',
+    make:'apple',
     model:'6s',
     year:2017
 };
 console.log(phone);
 var person={
-    firstName:'Pravalika',
-    lastName:'Ammineni',
-    graduation:'Pharmacy'
+    firstName:'pravalika',
+    lastName:'ammineni',
+    graduation:'pharmacy'
 };
 console.log(person);
 
 var laptop={
-    make:'HP',
-    model:'B&O',
+    make:'hp',
+    model:'b&o',
     year:2018 
 };
 console.log(laptop);
