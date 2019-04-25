@@ -13,24 +13,24 @@ console.log(e);
 
 // string variables
 
-var a= '100';
-console.log(a);
-var b='200';
-console.log(b);
-var c='50';
-console.log(c);
-var d='150';
-console.log(d);
-var e='300';
-console.log(e);
+var str1= '100';
+console.log(str1);
+var str2='200';
+console.log(str2);
+var str3='50';
+console.log(str3);
+var str4='150';
+console.log(str4);
+var str5='300';
+console.log(str5);
 
 // boolean variables
 
-var a = true;
-var b = false;
+var f = true;
+var bg = false;
 
-console.log(a);
-console.log(b);
+console.log(f);
+console.log(g);
 
 // array variables
 
