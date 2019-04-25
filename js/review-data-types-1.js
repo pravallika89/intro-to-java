@@ -36,7 +36,7 @@ console.log(b);
 
 var arr1=['pravallika', 'prasad', 'sahasra'];
 var arr2=['hello', 'world'];
-var arr3=['Images','videos','maps'];
+var arr3=['images','videos','maps'];
 var arr4=['purple','green',10,20];
 var arr5=[10 ,20, 30, 40, 50];
 
@@ -56,7 +56,7 @@ var phone={
 console.log(phone);
 var person={
     firstName:'Pravalika',
-    lastname:'Ammineni',
+    lastName:'Ammineni',
     graduation:'Pharmacy'
 };
 console.log(person);
