@@ -22,3 +22,4 @@ var date={
 
 console.log(date);
 console.log(date.day);
+
