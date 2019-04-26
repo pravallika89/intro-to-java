@@ -17,8 +17,12 @@ console.log(car,model);
 var carModel=car+'  '+model;
 console.log(carModel);
 
+<<<<<<< HEAD
 var carModel=car+model;
 console.log(carModel);
+=======
+
+>>>>>>> reviewed array variables
 
 var carModel=car.concat(' ',model);
 console.log(carModel);
